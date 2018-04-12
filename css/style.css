@@ -50,6 +50,12 @@ input[type="submit"],input[type="reset"],.w3l_team_grd,.agileits_w3layouts_featu
 	height: 100%;
 	min-height: 100%;
 }
+.randomtext-container .fa-check {
+	color: green;
+}
+.randomtext-container .fa-times {
+	color:red;
+}
 .randomtext {
 	text-align: justify;
 	text-justify: inter-word;
@@ -1383,6 +1389,12 @@ span.hi-icon {
     color: #fff;
     line-height: 1.8em;
     font-size: 14px;
+}
+.footer img {
+	max-height: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 .footer-grids:nth-child(1) {
     padding: 0 3em 0 0;
